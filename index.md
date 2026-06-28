@@ -18,10 +18,20 @@ Anime Wordle is a daily anime character guessing game. Challenge your otaku cult
 
 ### Game Rules and Information
 * **How to play:** Search for an anime character to start guessing. Use the clues from each guess to find the mystery character!
-* **Database:** A character's data is based on their first major anime appearance.
+* **Database:** A character's data is based on their first major anime appearance. For instance, Naruto Uzumaki is a 12-year-old character from Naruto (2002), not Naruto Shippuden (2007).
 * **Hair Colors:** Hair colors are simplified to basic shades (e.g., navy and cyan are both 'Blue') to allow better character matching.
-* **Age Rules:** Short introductions are ignored (e.g. Eren Yeager is 15 y.o.). For instance, Naruto Uzumaki is a 12-year-old character from Naruto (2002), not Naruto Shippuden (2007).
+* **Age Rules:** Short introductions are ignored (e.g. Eren Yeager is 15 y.o.). 
 * **Missing Age:** If the age tile turns red (wrong), it means the mystery character has an undefined or unknown age.
+
+### Leaderboard
+
+There's a daily ranking! It is split into 2 sections: no-hint and hints.
+The game being relatively difficult. After your first guess you can open a hint panel with the complete list of animes per studio, and the list of studios not guessed yet.
+For similar scores, the rule is first come first served!
+
+### Unlimited mode
+
+Once you've finished the daily, you can switch to infinite mode where a character is picked randomly just for you.
 
 ### Feedback, Bug Reports & Suggestions
 If you notice an error in the character database, encounter a bug, or want to suggest new features or characters to expand the game, please feel free to contribute! You can open a ticket on the official tracker here:
