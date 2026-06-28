@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hewigkeyt's Projects & Anime Wordle
+title: Hewigkeyt's Projects
 ---
 
 # Hewigkeyt's Projects
