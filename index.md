@@ -9,7 +9,7 @@ Welcome to my GitHub Pages site. This is the central hub for all my open-source 
 
 My main active project is **Anime Wordle**, a free daily browser game for anime fans. You can play it directly here:
 
-👉 **[Play Anime Wordle](https://github.com/Hewigkeyt/hewigkeyt.github.io/blob/master/anime_wordle)**
+👉 **[Play Anime Wordle](https://hewigkeyt.github.io/anime_wordle/)**
 
 ---
 
